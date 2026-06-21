@@ -37,4 +37,5 @@ Personal-Diary-Application/
 ## Author
 
 Sumana Kasarapu
+
 APSSDC Python Programming Internship Project
