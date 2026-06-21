@@ -33,7 +33,8 @@ Personal-Diary-Application/
 ├── diary.txt
 └── README.md
 
+```
 ## Author
 
-**Sumana Kasarapu**  
+Sumana Kasarapu
 APSSDC Python Programming Internship Project
