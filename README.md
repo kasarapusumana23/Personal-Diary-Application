@@ -1,13 +1,17 @@
-# Personal Diary Application in Python
-
+📖 Personal Diary Application (GUI Version)
 ## Description
-A simple Python-based diary application that allows users to write and view personal diary entries. Entries are stored with the current date and time.
+A GUI-based Personal Diary Application developed using Python and Tkinter. The application allows users to securely write, save, view, and manage personal diary entries through a password-protected interface. All entries are stored with automatic date and time stamps using Python file handling.
 
 ## Features
-- Write diary entries
-- View saved entries
-- Automatic date and time stamping
-- File-based storage
+
+* 🔒 Password Protected Login
+* ✍️ Write Diary Entries
+* 📖 View Saved Entries
+* 📅 Automatic Date & Time Recording
+* 🗑️ Delete All Entries
+* 🖥️ Tkinter Graphical User Interface
+* 💾 File Handling for Data Storage
+
 
 ## Technologies Used
 - Python
@@ -19,8 +23,7 @@ A simple Python-based diary application that allows users to write and view pers
 2. Run:
 
 ```bash
-python diary.py
-```
+python diary_gui.py```
 
 ## Project Structure
 
@@ -29,3 +32,8 @@ Personal-Diary-Application/
 ├── diary.py
 ├── diary.txt
 └── README.md
+
+## Author
+
+**Sumana Kasarapu**  
+APSSDC Python Programming Internship Project
